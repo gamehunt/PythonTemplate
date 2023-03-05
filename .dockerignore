@@ -1,0 +1,6 @@
+.git/
+.gitignore
+.flake8
+.pre-commit-config.yaml
+README.md
+test_main.py
